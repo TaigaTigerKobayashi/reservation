@@ -106,9 +106,6 @@ $(function() {
     var d = ("00" + dt.getDate()).slice(-2);
     var today = y + "年"　+ m + "月" + d + "日";
     console.log(today);
-
- 
-
 });
 
 </script>
