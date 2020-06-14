@@ -1,7 +1,7 @@
 <script>
 jQuery(function($){
     $.datepicker.regional['ja'] = {
-        closeText: '閉じる',
+        closeText: '閉じる!',
         prevText: '<前',
         nextText: '次>',
         currentText: '今日',
