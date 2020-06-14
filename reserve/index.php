@@ -3,10 +3,10 @@
 <link rel="stylesheet" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1/themes/flick/jquery-ui.css">
 <b>予約フォーム</b><br>
 <form method="POST" action="">
-1.カレンダーから日付を選択してください<br>
+    カレンダーから日付を選択してください<br>
 <input type="text" id="date_val"/><br>
 <div id="datepicker"></div><br>
-2.時間を選択してください<br>
+時間を選択してください<br>
     <select name="time">
     <option value=""> 選択してください</option>
     <option value="">9:00～10:00</option>
@@ -18,7 +18,7 @@
     <option value="">16:00～17:00</option>
     <option value="">17:00～18:00</option>
     </select><br><br>
-3.ご希望される弁護士を選択してください<br>
+ご希望されるチューターを選択してください<br>
     <select name="lawyer">
     <option value=""> 選択してください</option>
     <option value="">松島</option>
